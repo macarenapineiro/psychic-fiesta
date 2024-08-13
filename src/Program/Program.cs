@@ -9,3 +9,12 @@ public class Multiplication
    }
 }
 Console.WriteLine(Division.Divide(18, 2));
+
+// Esta clase implementa la operación Resta
+public class Addition
+{
+    public static int Add(int a, int b)
+    {
+        return a + b;
+    }
+}
