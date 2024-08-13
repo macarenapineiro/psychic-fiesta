@@ -4,10 +4,10 @@ Console.WriteLine(Multiplication.Multiply(3, 3));
 Console.WriteLine(Division.Divide(18, 2));
 
 // Esta clase implementa la operación Resta
-public class Substraction
+public class Addition
 {
-    public static int Substract(int a, int b)
+    public static int Add(int a, int b)
     {
-        return a - b;
+        return a + b;
     }
 }
