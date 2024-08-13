@@ -11,11 +11,19 @@ public class Multiplication
    }
 }
 
-// Esta clase implementa la operación Resta
+
 public class Addition
 {
     public static int Add(int a, int b)
     {
         return a + b;
+    }
+}
+
+public class Substraction
+{
+    public static int Substract(int a, int b)
+    {
+        return a - b;
     }
 }
