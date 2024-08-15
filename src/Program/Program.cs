@@ -24,7 +24,7 @@ public class Addition
 {
     public static int Add(int a, int b)
     {
-        return 0;// cambio incorrecto
+        return a + b;
     }
 }
 
@@ -32,6 +32,6 @@ public class Substraction
 {
     public static int Substract(int a, int b)
     {
-        return 0;
+        return a - b;
     }
 }
